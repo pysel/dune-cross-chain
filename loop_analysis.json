@@ -1,0 +1,482 @@
+[
+  {
+    "source_chain": "arbitrum",
+    "dest_chain": "avalanche_c",
+    "total_txs": 10000,
+    "total_senders": 9575,
+    "loop_senders": 183,
+    "loop_txs": 361,
+    "loop_tx_pct": 3.61,
+    "loop_sender_pct": 1.91
+  },
+  {
+    "source_chain": "arbitrum",
+    "dest_chain": "base",
+    "total_txs": 10000,
+    "total_senders": 7995,
+    "loop_senders": 267,
+    "loop_txs": 1449,
+    "loop_tx_pct": 14.49,
+    "loop_sender_pct": 3.34
+  },
+  {
+    "source_chain": "arbitrum",
+    "dest_chain": "bnb",
+    "total_txs": 10000,
+    "total_senders": 8951,
+    "loop_senders": 116,
+    "loop_txs": 770,
+    "loop_tx_pct": 7.7,
+    "loop_sender_pct": 1.3
+  },
+  {
+    "source_chain": "arbitrum",
+    "dest_chain": "ethereum",
+    "total_txs": 10000,
+    "total_senders": 8382,
+    "loop_senders": 226,
+    "loop_txs": 942,
+    "loop_tx_pct": 9.42,
+    "loop_sender_pct": 2.7
+  },
+  {
+    "source_chain": "arbitrum",
+    "dest_chain": "hyperliquid",
+    "total_txs": 10000,
+    "total_senders": 7635,
+    "loop_senders": 500,
+    "loop_txs": 772,
+    "loop_tx_pct": 7.72,
+    "loop_sender_pct": 6.55
+  },
+  {
+    "source_chain": "arbitrum",
+    "dest_chain": "optimism",
+    "total_txs": 10000,
+    "total_senders": 9126,
+    "loop_senders": 193,
+    "loop_txs": 673,
+    "loop_tx_pct": 6.73,
+    "loop_sender_pct": 2.11
+  },
+  {
+    "source_chain": "arbitrum",
+    "dest_chain": "polygon",
+    "total_txs": 10000,
+    "total_senders": 8861,
+    "loop_senders": 137,
+    "loop_txs": 728,
+    "loop_tx_pct": 7.28,
+    "loop_sender_pct": 1.55
+  },
+  {
+    "source_chain": "avalanche_c",
+    "dest_chain": "arbitrum",
+    "total_txs": 10000,
+    "total_senders": 9397,
+    "loop_senders": 183,
+    "loop_txs": 455,
+    "loop_tx_pct": 4.55,
+    "loop_sender_pct": 1.95
+  },
+  {
+    "source_chain": "avalanche_c",
+    "dest_chain": "base",
+    "total_txs": 10000,
+    "total_senders": 7200,
+    "loop_senders": 335,
+    "loop_txs": 1819,
+    "loop_tx_pct": 18.19,
+    "loop_sender_pct": 4.65
+  },
+  {
+    "source_chain": "avalanche_c",
+    "dest_chain": "bnb",
+    "total_txs": 10000,
+    "total_senders": 9736,
+    "loop_senders": 81,
+    "loop_txs": 200,
+    "loop_tx_pct": 2.0,
+    "loop_sender_pct": 0.83
+  },
+  {
+    "source_chain": "avalanche_c",
+    "dest_chain": "ethereum",
+    "total_txs": 10000,
+    "total_senders": 4173,
+    "loop_senders": 335,
+    "loop_txs": 4237,
+    "loop_tx_pct": 42.37,
+    "loop_sender_pct": 8.03
+  },
+  {
+    "source_chain": "avalanche_c",
+    "dest_chain": "optimism",
+    "total_txs": 10000,
+    "total_senders": 9127,
+    "loop_senders": 197,
+    "loop_txs": 622,
+    "loop_tx_pct": 6.22,
+    "loop_sender_pct": 2.16
+  },
+  {
+    "source_chain": "avalanche_c",
+    "dest_chain": "polygon",
+    "total_txs": 10000,
+    "total_senders": 9697,
+    "loop_senders": 163,
+    "loop_txs": 296,
+    "loop_tx_pct": 2.96,
+    "loop_sender_pct": 1.68
+  },
+  {
+    "source_chain": "base",
+    "dest_chain": "arbitrum",
+    "total_txs": 10000,
+    "total_senders": 7374,
+    "loop_senders": 267,
+    "loop_txs": 1018,
+    "loop_tx_pct": 10.18,
+    "loop_sender_pct": 3.62
+  },
+  {
+    "source_chain": "base",
+    "dest_chain": "avalanche_c",
+    "total_txs": 10000,
+    "total_senders": 7137,
+    "loop_senders": 335,
+    "loop_txs": 1609,
+    "loop_tx_pct": 16.09,
+    "loop_sender_pct": 4.69
+  },
+  {
+    "source_chain": "base",
+    "dest_chain": "bnb",
+    "total_txs": 10000,
+    "total_senders": 8642,
+    "loop_senders": 242,
+    "loop_txs": 911,
+    "loop_tx_pct": 9.11,
+    "loop_sender_pct": 2.8
+  },
+  {
+    "source_chain": "base",
+    "dest_chain": "ethereum",
+    "total_txs": 10000,
+    "total_senders": 8617,
+    "loop_senders": 288,
+    "loop_txs": 1021,
+    "loop_tx_pct": 10.21,
+    "loop_sender_pct": 3.34
+  },
+  {
+    "source_chain": "base",
+    "dest_chain": "optimism",
+    "total_txs": 10000,
+    "total_senders": 7894,
+    "loop_senders": 385,
+    "loop_txs": 1671,
+    "loop_tx_pct": 16.71,
+    "loop_sender_pct": 4.88
+  },
+  {
+    "source_chain": "base",
+    "dest_chain": "polygon",
+    "total_txs": 10000,
+    "total_senders": 6702,
+    "loop_senders": 224,
+    "loop_txs": 2071,
+    "loop_tx_pct": 20.71,
+    "loop_sender_pct": 3.34
+  },
+  {
+    "source_chain": "bnb",
+    "dest_chain": "arbitrum",
+    "total_txs": 10000,
+    "total_senders": 5252,
+    "loop_senders": 116,
+    "loop_txs": 3602,
+    "loop_tx_pct": 36.02,
+    "loop_sender_pct": 2.21
+  },
+  {
+    "source_chain": "bnb",
+    "dest_chain": "avalanche_c",
+    "total_txs": 10000,
+    "total_senders": 4025,
+    "loop_senders": 81,
+    "loop_txs": 2735,
+    "loop_tx_pct": 27.35,
+    "loop_sender_pct": 2.01
+  },
+  {
+    "source_chain": "bnb",
+    "dest_chain": "base",
+    "total_txs": 10000,
+    "total_senders": 7050,
+    "loop_senders": 242,
+    "loop_txs": 2522,
+    "loop_tx_pct": 25.22,
+    "loop_sender_pct": 3.43
+  },
+  {
+    "source_chain": "bnb",
+    "dest_chain": "ethereum",
+    "total_txs": 10000,
+    "total_senders": 7603,
+    "loop_senders": 199,
+    "loop_txs": 2115,
+    "loop_tx_pct": 21.15,
+    "loop_sender_pct": 2.62
+  },
+  {
+    "source_chain": "bnb",
+    "dest_chain": "optimism",
+    "total_txs": 10000,
+    "total_senders": 4376,
+    "loop_senders": 135,
+    "loop_txs": 4354,
+    "loop_tx_pct": 43.54,
+    "loop_sender_pct": 3.09
+  },
+  {
+    "source_chain": "bnb",
+    "dest_chain": "polygon",
+    "total_txs": 10000,
+    "total_senders": 4523,
+    "loop_senders": 363,
+    "loop_txs": 3733,
+    "loop_tx_pct": 37.33,
+    "loop_sender_pct": 8.03
+  },
+  {
+    "source_chain": "ethereum",
+    "dest_chain": "arbitrum",
+    "total_txs": 10000,
+    "total_senders": 8026,
+    "loop_senders": 226,
+    "loop_txs": 1385,
+    "loop_tx_pct": 13.85,
+    "loop_sender_pct": 2.82
+  },
+  {
+    "source_chain": "ethereum",
+    "dest_chain": "avalanche_c",
+    "total_txs": 10000,
+    "total_senders": 5774,
+    "loop_senders": 335,
+    "loop_txs": 2273,
+    "loop_tx_pct": 22.73,
+    "loop_sender_pct": 5.8
+  },
+  {
+    "source_chain": "ethereum",
+    "dest_chain": "base",
+    "total_txs": 10000,
+    "total_senders": 8416,
+    "loop_senders": 288,
+    "loop_txs": 1448,
+    "loop_tx_pct": 14.48,
+    "loop_sender_pct": 3.42
+  },
+  {
+    "source_chain": "ethereum",
+    "dest_chain": "bnb",
+    "total_txs": 10000,
+    "total_senders": 5702,
+    "loop_senders": 199,
+    "loop_txs": 3100,
+    "loop_tx_pct": 31.0,
+    "loop_sender_pct": 3.49
+  },
+  {
+    "source_chain": "ethereum",
+    "dest_chain": "optimism",
+    "total_txs": 10000,
+    "total_senders": 8025,
+    "loop_senders": 293,
+    "loop_txs": 1290,
+    "loop_tx_pct": 12.9,
+    "loop_sender_pct": 3.65
+  },
+  {
+    "source_chain": "ethereum",
+    "dest_chain": "polygon",
+    "total_txs": 10000,
+    "total_senders": 8608,
+    "loop_senders": 89,
+    "loop_txs": 687,
+    "loop_tx_pct": 6.87,
+    "loop_sender_pct": 1.03
+  },
+  {
+    "source_chain": "hyperliquid",
+    "dest_chain": "arbitrum",
+    "total_txs": 10000,
+    "total_senders": 9258,
+    "loop_senders": 500,
+    "loop_txs": 835,
+    "loop_tx_pct": 8.35,
+    "loop_sender_pct": 5.4
+  },
+  {
+    "source_chain": "optimism",
+    "dest_chain": "arbitrum",
+    "total_txs": 10000,
+    "total_senders": 8673,
+    "loop_senders": 193,
+    "loop_txs": 878,
+    "loop_tx_pct": 8.78,
+    "loop_sender_pct": 2.23
+  },
+  {
+    "source_chain": "optimism",
+    "dest_chain": "avalanche_c",
+    "total_txs": 10000,
+    "total_senders": 9556,
+    "loop_senders": 197,
+    "loop_txs": 386,
+    "loop_tx_pct": 3.86,
+    "loop_sender_pct": 2.06
+  },
+  {
+    "source_chain": "optimism",
+    "dest_chain": "base",
+    "total_txs": 10000,
+    "total_senders": 8152,
+    "loop_senders": 385,
+    "loop_txs": 1540,
+    "loop_tx_pct": 15.4,
+    "loop_sender_pct": 4.72
+  },
+  {
+    "source_chain": "optimism",
+    "dest_chain": "bnb",
+    "total_txs": 10000,
+    "total_senders": 9223,
+    "loop_senders": 135,
+    "loop_txs": 601,
+    "loop_tx_pct": 6.01,
+    "loop_sender_pct": 1.46
+  },
+  {
+    "source_chain": "optimism",
+    "dest_chain": "ethereum",
+    "total_txs": 10000,
+    "total_senders": 7967,
+    "loop_senders": 293,
+    "loop_txs": 1106,
+    "loop_tx_pct": 11.06,
+    "loop_sender_pct": 3.68
+  },
+  {
+    "source_chain": "optimism",
+    "dest_chain": "polygon",
+    "total_txs": 10000,
+    "total_senders": 9011,
+    "loop_senders": 142,
+    "loop_txs": 701,
+    "loop_tx_pct": 7.01,
+    "loop_sender_pct": 1.58
+  },
+  {
+    "source_chain": "polygon",
+    "dest_chain": "arbitrum",
+    "total_txs": 10000,
+    "total_senders": 8443,
+    "loop_senders": 137,
+    "loop_txs": 949,
+    "loop_tx_pct": 9.49,
+    "loop_sender_pct": 1.62
+  },
+  {
+    "source_chain": "polygon",
+    "dest_chain": "avalanche_c",
+    "total_txs": 10000,
+    "total_senders": 9756,
+    "loop_senders": 163,
+    "loop_txs": 274,
+    "loop_tx_pct": 2.74,
+    "loop_sender_pct": 1.67
+  },
+  {
+    "source_chain": "polygon",
+    "dest_chain": "base",
+    "total_txs": 10000,
+    "total_senders": 7425,
+    "loop_senders": 224,
+    "loop_txs": 2077,
+    "loop_tx_pct": 20.77,
+    "loop_sender_pct": 3.02
+  },
+  {
+    "source_chain": "polygon",
+    "dest_chain": "bnb",
+    "total_txs": 10000,
+    "total_senders": 9068,
+    "loop_senders": 363,
+    "loop_txs": 940,
+    "loop_tx_pct": 9.4,
+    "loop_sender_pct": 4.0
+  },
+  {
+    "source_chain": "polygon",
+    "dest_chain": "ethereum",
+    "total_txs": 10000,
+    "total_senders": 6484,
+    "loop_senders": 89,
+    "loop_txs": 2337,
+    "loop_tx_pct": 23.37,
+    "loop_sender_pct": 1.37
+  },
+  {
+    "source_chain": "polygon",
+    "dest_chain": "optimism",
+    "total_txs": 10000,
+    "total_senders": 8559,
+    "loop_senders": 142,
+    "loop_txs": 923,
+    "loop_tx_pct": 9.23,
+    "loop_sender_pct": 1.66
+  },
+  {
+    "source_chain": "ethereum",
+    "dest_chain": "hyperliquid",
+    "total_txs": 1734,
+    "total_senders": 961,
+    "loop_senders": 0,
+    "loop_txs": 0,
+    "loop_tx_pct": 0.0,
+    "loop_sender_pct": 0.0
+  },
+  {
+    "source_chain": "polygon",
+    "dest_chain": "hyperliquid",
+    "total_txs": 351,
+    "total_senders": 254,
+    "loop_senders": 0,
+    "loop_txs": 0,
+    "loop_tx_pct": 0.0,
+    "loop_sender_pct": 0.0
+  },
+  {
+    "source_chain": "base",
+    "dest_chain": "hyperliquid",
+    "total_txs": 326,
+    "total_senders": 210,
+    "loop_senders": 0,
+    "loop_txs": 0,
+    "loop_tx_pct": 0.0,
+    "loop_sender_pct": 0.0
+  },
+  {
+    "source_chain": "optimism",
+    "dest_chain": "hyperliquid",
+    "total_txs": 48,
+    "total_senders": 40,
+    "loop_senders": 0,
+    "loop_txs": 0,
+    "loop_tx_pct": 0.0,
+    "loop_sender_pct": 0.0
+  }
+]

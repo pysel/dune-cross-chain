@@ -1,0 +1,1152 @@
+{
+  "0x724dc807b04555b71ed48a6896b6f41593b8c637": {
+    "chain": "arbitrum",
+    "nameTag": "Aave: aArbUSDCn Token",
+    "count": 11
+  },
+  "0x1619de6b6b20ed217a58d00f37b9d47c7663feca": {
+    "chain": "arbitrum",
+    "nameTag": "Celer Network: cBridge",
+    "count": 10
+  },
+  "0x82e0b8cdd80af5930c4452c684e71c861148ec8a": {
+    "chain": "ethereum",
+    "nameTag": "MetaMask: Bridge Router",
+    "count": 1
+  },
+  "0x892785f33cdee22a30aef750f285e18c18040c3e": {
+    "chain": "arbitrum",
+    "nameTag": "Stargate Finance: S*USDC Token",
+    "count": 6
+  },
+  "0x6ab707aca953edaefbc4fd23ba73294241490620": {
+    "chain": "optimism",
+    "nameTag": "Aave: aUSDT Token V3",
+    "count": 5
+  },
+  "0xdef1c0ded9bec7f1a1670819833240f027b25eff": {
+    "chain": "ethereum",
+    "nameTag": "0x: Exchange Proxy",
+    "count": 13
+  },
+  "0xc36442b4a4522e871399cd717abdd847ab11fe88": {
+    "chain": "optimism",
+    "nameTag": "Uniswap V3: Positions NFT",
+    "count": 1
+  },
+  "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506": {
+    "chain": "arbitrum",
+    "nameTag": "SushiSwap: Router",
+    "count": 5
+  },
+  "0x078f358208685046a11c85e8ad32895ded33a249": {
+    "chain": "optimism",
+    "nameTag": "Aave: aWBTC Token V3",
+    "count": 1
+  },
+  "0xb6cfcf89a7b22988bfc96632ac2a9d6dab60d641": {
+    "chain": "arbitrum",
+    "nameTag": "Stargate Finance: S*USDT Token",
+    "count": 4
+  },
+  "0xb4315e873dbcf96ffd0acd8ea43f689d8c20fb30": {
+    "chain": "arbitrum",
+    "nameTag": "Trader Joe: LBRouter v2.1",
+    "count": 3
+  },
+  "0xc873fecbd354f5a56e00e710b90ef4201db2448d": {
+    "chain": "arbitrum",
+    "nameTag": "Camelot: Router",
+    "count": 2
+  },
+  "0xb88690461ddbab6f04dfad7df66b7725942feb9c": {
+    "chain": "arbitrum",
+    "nameTag": "Across Protocol: Arbitrum Spoke Pool V2",
+    "count": 2
+  },
+  "0x4c60051384bd2d3c01bfc845cf5f4b44bcbe9de5": {
+    "chain": "arbitrum",
+    "nameTag": "Uniswap: Universal Router",
+    "count": 2
+  },
+  "0x33ceb27b39d2bb7d2e61f7564d3df29344020417": {
+    "chain": "arbitrum",
+    "nameTag": "Hop Protocol: ETH Wrapper",
+    "count": 2
+  },
+  "0xdb6f1920a889355780af7570773609bd8cb1f498": {
+    "chain": "arbitrum",
+    "nameTag": "0x: Exchange Proxy Flash Wallet",
+    "count": 2
+  },
+  "0x9c0fbb8cade7b178b135fd2f1da125a37b27f442": {
+    "chain": "arbitrum",
+    "nameTag": "Notional Finance: nUSDT Token",
+    "count": 1
+  },
+  "0xe7351fd770a37282b91d153ee690b63579d6dd7f": {
+    "chain": "ethereum",
+    "nameTag": "deBridge: DlnDestination",
+    "count": 2
+  },
+  "0x0385f851060c09a552f1a28ea3f612660256cbaa": {
+    "chain": "arbitrum",
+    "nameTag": "dForce Network: iUSX Token",
+    "count": 1
+  },
+  "0x650af55d5877f289837c30b94af91538a7504b76": {
+    "chain": "arbitrum",
+    "nameTag": "Multichain: Router V6",
+    "count": 1
+  },
+  "0xb5ee21786d28c5ba61661550879475976b707099": {
+    "chain": "arbitrum",
+    "nameTag": "Aave: Wrapped Token Gateway V3",
+    "count": 1
+  },
+  "0x0000000000000000000000000000000000000064": {
+    "chain": "arbitrum",
+    "nameTag": "Arbitrum: ArbSys",
+    "count": 1
+  },
+  "0x000000000000000000000000000000000000006e": {
+    "chain": "arbitrum",
+    "nameTag": "Arbitrum: ArbRetryableTx",
+    "count": 1
+  },
+  "0xbc14d8563b248b79689ecbc43bba53290e0b6b66": {
+    "chain": "arbitrum",
+    "nameTag": "XAI: Node License Address",
+    "count": 1
+  },
+  "0x1d42783e7eeacae12ebc315d1d2d0e3c6230a068": {
+    "chain": "arbitrum",
+    "nameTag": "Rage Trade: Curve Yield Strategy",
+    "count": 1
+  },
+  "0x0c1cf6883efa1b496b01f654e247b9b419873054": {
+    "chain": "arbitrum",
+    "nameTag": "Sushiswap: DPX",
+    "count": 1
+  },
+  "0x9bf72183e66c1a62f17b6aa68eb7648a04ae4bb1": {
+    "chain": "arbitrum",
+    "nameTag": "CAP: Orders",
+    "count": 1
+  },
+  "0xf329e36c7bf6e5e86ce2150875a84ce77f477375": {
+    "chain": "arbitrum",
+    "nameTag": "Aave: aAAVE Token V3",
+    "count": 1
+  },
+  "0xf52f079af080c9fb5afca57dde0f8b83d49692a9": {
+    "chain": "arbitrum",
+    "nameTag": "dForce: iUSDT Token",
+    "count": 1
+  },
+  "0xf28db483773e3616da91fdfa7b5d4090ac40cc59": {
+    "chain": "arbitrum",
+    "nameTag": "Pendle: YT-weETH-25APR2024 Token",
+    "count": 1
+  },
+  "0x00000000000000adc04c56bf30ac9d3c0aaf14dc": {
+    "chain": "base",
+    "nameTag": "Seaport 1.5",
+    "count": 1
+  },
+  "0x4c749d097832de2fecc989ce18fdc5f1bd76700c": {
+    "chain": "arbitrum",
+    "nameTag": "XAI: esXAI Token",
+    "count": 1
+  },
+  "0xba12222222228d8ba445958a75a0704d566bf2c8": {
+    "chain": "ethereum",
+    "nameTag": "Balancer: Vault",
+    "count": 6
+  },
+  "0xc32eb36f886f638fffd836df44c124074cfe3584": {
+    "chain": "arbitrum",
+    "nameTag": "Shell Protocol",
+    "count": 1
+  },
+  "0xe592427a0aece92de3edee1f18e0157c05861564": {
+    "chain": "ethereum",
+    "nameTag": "Uniswap V3: Router",
+    "count": 1
+  },
+  "0xe6c8d111337d0052b9d88bf5d7d55b7f8385acd3": {
+    "chain": "arbitrum",
+    "nameTag": "Superfluid Finance: ETHx Token",
+    "count": 1
+  },
+  "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": {
+    "chain": "ethereum",
+    "nameTag": "KyberSwap: Meta Aggregation Router v2",
+    "count": 5
+  },
+  "0x0a1d576f3efef75b330424287a95a366e8281d54": {
+    "chain": "base",
+    "nameTag": "Aave: aBasUSDbC Token",
+    "count": 1
+  },
+  "0x1fba6b0bbae2b74586fba407fb45bd4788b7b130": {
+    "chain": "base",
+    "nameTag": "Banana Gun: Router",
+    "count": 1
+  },
+  "0xa9d1e08c7793af67e9d92fe308d5697fb81d3e43": {
+    "chain": "ethereum",
+    "nameTag": "Coinbase 10",
+    "count": 68
+  },
+  "0x0439e60f02a8900a951603950d8d4527f400c3f1": {
+    "chain": "ethereum",
+    "nameTag": "MetaMask: Meta Bridge",
+    "count": 42
+  },
+  "0xfbeedcfe378866dab6abbafd8b2986f5c1768737": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0xfbe\u2026737",
+    "count": 19
+  },
+  "0xae7ab96520de3a18e5e111b5eaab095312d7fe84": {
+    "chain": "ethereum",
+    "nameTag": "Lido: stETH Token",
+    "count": 18
+  },
+  "0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5": {
+    "chain": "ethereum",
+    "nameTag": "Blur.io: Marketplace 3",
+    "count": 16
+  },
+  "0x22f9dcf4647084d6c31b2765f6910cd85c178c18": {
+    "chain": "ethereum",
+    "nameTag": "0x: Exchange Proxy Flash Wallet",
+    "count": 15
+  },
+  "0x6a000f20005980200259b80c5102003040001068": {
+    "chain": "ethereum",
+    "nameTag": "Velora: Augustus V6.2",
+    "count": 14
+  },
+  "0x65b382653f7c31bc0af67f188122035461ec9c76": {
+    "chain": "ethereum",
+    "nameTag": "PancakeSwap: Universal Router",
+    "count": 14
+  },
+  "0x8c864d0c8e476bf9eb9d620c10e1296fb0e2f940": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0x8c864d0c8e476bf9eb9d620c10e1296fb0e2f940",
+    "count": 14
+  },
+  "0x32400084c286cf3e17e7b677ea9583e60a000324": {
+    "chain": "ethereum",
+    "nameTag": "zkSync Era: Diamond Proxy",
+    "count": 13
+  },
+  "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd": {
+    "chain": "ethereum",
+    "nameTag": "Sky: sUSDS Token",
+    "count": 13
+  },
+  "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c": {
+    "chain": "ethereum",
+    "nameTag": "Aave: USDC V3",
+    "count": 13
+  },
+  "0x7f268357a8c2552623316e2562d90e642bb538e5": {
+    "chain": "ethereum",
+    "nameTag": "OpenSea: Wyvern Exchange v2",
+    "count": 13
+  },
+  "0xaada05bd399372f0b0463744c09113c137636f6a": {
+    "chain": "ethereum",
+    "nameTag": "Wormhole: CCTP",
+    "count": 13
+  },
+  "0x5427fefa711eff984124bfbb1ab6fbf5e3da1820": {
+    "chain": "ethereum",
+    "nameTag": "Celer Network: cBridge V2",
+    "count": 13
+  },
+  "0x888888888889758f76e7103c6cbf23abbf58f946": {
+    "chain": "ethereum",
+    "nameTag": "Pendle: RouterV4",
+    "count": 12
+  },
+  "0x70bf6634ee8cb27d04478f184b9b8bb13e5f4710": {
+    "chain": "ethereum",
+    "nameTag": "0x: Settler V1.6",
+    "count": 12
+  },
+  "0x0d0e364aa7852291883c162b22d6d81f6355428f": {
+    "chain": "ethereum",
+    "nameTag": "0x: Settler V1.7",
+    "count": 12
+  },
+  "0x990636ecb3ff04d33d92e970d3d588bf5cd8d086": {
+    "chain": "ethereum",
+    "nameTag": "1inch: Aggregation Executor 5",
+    "count": 12
+  },
+  "0x0000000000a39bb272e79075ade125fd351887ac": {
+    "chain": "ethereum",
+    "nameTag": "Blur: Bidding",
+    "count": 11
+  },
+  "0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b": {
+    "chain": "ethereum",
+    "nameTag": "Uniswap: Universal Router 2",
+    "count": 11
+  },
+  "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251": {
+    "chain": "ethereum",
+    "nameTag": "deBridge: Crosschain Forwarder Proxy",
+    "count": 11
+  },
+  "0xba3cb449bd2b4adddbc894d8697f5170800eadec": {
+    "chain": "ethereum",
+    "nameTag": "CoW Protocol: CoW Swap Eth Flow",
+    "count": 10
+  },
+  "0x225a38bc71102999dd13478bfabd7c4d53f2dc17": {
+    "chain": "ethereum",
+    "nameTag": "Rizzolver: Uniswap X",
+    "count": 9
+  },
+  "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f": {
+    "chain": "ethereum",
+    "nameTag": "Arbitrum: Delayed Inbox",
+    "count": 9
+  },
+  "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b": {
+    "chain": "ethereum",
+    "nameTag": "OpenSea: Wyvern Exchange v1",
+    "count": 9
+  },
+  "0x4fef9d741011476750a243ac70b9789a63dd47df": {
+    "chain": "ethereum",
+    "nameTag": "MetaMask: Pooled Staking",
+    "count": 9
+  },
+  "0x6774bcbd5cecef1336b5300fb5186a12ddd8b367": {
+    "chain": "ethereum",
+    "nameTag": "Scroll: L1 Scroll Messenger Proxy",
+    "count": 8
+  },
+  "0x16c6521dff6bab339122a0fe25a9116693265353": {
+    "chain": "ethereum",
+    "nameTag": "Curve: Router",
+    "count": 7
+  },
+  "0x28be6260dbb7872de5effc9a4a73c85b7405a8c0": {
+    "chain": "ethereum",
+    "nameTag": "Legion: YieldBasis Sale",
+    "count": 7
+  },
+  "0xeff6cb8b614999d130e537751ee99724d01aa167": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0xeff6...167",
+    "count": 7
+  },
+  "0xabea9132b05a70803a4e85094fd0e1800777fbef": {
+    "chain": "ethereum",
+    "nameTag": "zkSync",
+    "count": 6
+  },
+  "0x6e4141d33021b52c91c28608403db4a0ffb50ec6": {
+    "chain": "ethereum",
+    "nameTag": "KyberSwap: Aggregator Executor",
+    "count": 6
+  },
+  "0x63242a4ea82847b20e506b63b0e2e2eff0cc6cb0": {
+    "chain": "ethereum",
+    "nameTag": "KyberSwap: Aggregator Executor V3",
+    "count": 6
+  },
+  "0xd90e2f925da726b50c4ed8d0fb90ad053324f31b": {
+    "chain": "ethereum",
+    "nameTag": "Tornado.Cash: Router",
+    "count": 5
+  },
+  "0x40a50cf069e992aa4536211b23f286ef88752187": {
+    "chain": "ethereum",
+    "nameTag": "CoW Protocol: Eth Flow",
+    "count": 5
+  },
+  "0xc3d688b66703497daa19211eedff47f25384cdc3": {
+    "chain": "ethereum",
+    "nameTag": "Compound: USDCv3 Token",
+    "count": 5
+  },
+  "0x4095f064b8d3c3548a3bebfd0bbfd04750e30077": {
+    "chain": "ethereum",
+    "nameTag": "Morpho: ETH Bundler V2",
+    "count": 5
+  },
+  "0x77d5f03822f94b39ad6117f6a46761ec5879031b": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0x77d...31b",
+    "count": 5
+  },
+  "0x7a250d5630b4cf539739df2c5dacb4c659f2488d": {
+    "chain": "ethereum",
+    "nameTag": "Uniswap V2: Router 2",
+    "count": 5
+  },
+  "0x207e1074858a7e78f17002075739ed2745dbaece": {
+    "chain": "ethereum",
+    "nameTag": "0x: Mainnet Settler",
+    "count": 5
+  },
+  "0x6f1cdbbb4d53d226cf4b917bf768b94acbab6168": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0x6f1\u2026168",
+    "count": 5
+  },
+  "0x64192819ac13ef72bf6b5ae239ac672b43a9af08": {
+    "chain": "ethereum",
+    "nameTag": "Axie Infinity: Ronin Bridge V2",
+    "count": 5
+  },
+  "0x4a6c312ec70e8747a587ee860a0353cd42be0ae0": {
+    "chain": "ethereum",
+    "nameTag": "Morpho: Ethereum General Adapter1",
+    "count": 4
+  },
+  "0xae0ee0a63a2ce6baeeffe56e7714fb4efe48d419": {
+    "chain": "ethereum",
+    "nameTag": "Starknet: StarkGate ETH Bridge",
+    "count": 4
+  },
+  "0x3154cf16ccdb4c6d922629664174b904d80f2c35": {
+    "chain": "ethereum",
+    "nameTag": "Base: Base Bridge",
+    "count": 4
+  },
+  "0x3ee18b2214aff97000d974cf647e7c347e8fa585": {
+    "chain": "ethereum",
+    "nameTag": "Wormhole: Portal Token Bridge",
+    "count": 4
+  },
+  "0x77b2043768d28e9c9ab44e1abfc95944bce57931": {
+    "chain": "ethereum",
+    "nameTag": "Stargate: Pool Native",
+    "count": 4
+  },
+  "0x0f4a1d7fdf4890be35e71f3e0bbc4a0ec377eca3": {
+    "chain": "ethereum",
+    "nameTag": "KyberSwap: DEX Aggregator Executor",
+    "count": 4
+  },
+  "0xc026395860db2d07ee33e05fe50ed7bd583189c7": {
+    "chain": "ethereum",
+    "nameTag": "Stargate: Pool USDC",
+    "count": 4
+  },
+  "0x397ff1542f962076d0bfe58ea045ffa2d347aca0": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: USDC",
+    "count": 4
+  },
+  "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1": {
+    "chain": "ethereum",
+    "nameTag": "Optimism: Gateway",
+    "count": 4
+  },
+  "0x88ad09518695c6c3712ac10a214be5109a655671": {
+    "chain": "ethereum",
+    "nameTag": "Gnosis Chain: ETH-xDAI Omni Bridge",
+    "count": 4
+  },
+  "0xb8ecac0fddb22ea630246ee421db61228c71fc40": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0xb8ec...c40",
+    "count": 4
+  },
+  "0xa8c1c98aaf99a5dfc907d61b892b2ad624901185": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0xa8c1...185",
+    "count": 3
+  },
+  "0xab02bf85a7a851b6a379ea3d5bd3b9b4f5dd8461": {
+    "chain": "ethereum",
+    "nameTag": "MegaETH: Public Sale",
+    "count": 3
+  },
+  "0x3a05e5d33d7ab3864d53aaec93c8301c1fa49115": {
+    "chain": "ethereum",
+    "nameTag": "Blast: L1 Bridge Proxy",
+    "count": 3
+  },
+  "0xf2614a233c7c3e7f08b1f887ba133a13f1eb2c55": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: Route Processor 5",
+    "count": 3
+  },
+  "0x7b5a0182e400b241b317e781a4e9dedfc1429822": {
+    "chain": "ethereum",
+    "nameTag": "Yearn: kpdUSDC Token",
+    "count": 3
+  },
+  "0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7": {
+    "chain": "ethereum",
+    "nameTag": "Curve.fi: DAI/USDC/USDT Pool",
+    "count": 3
+  },
+  "0x28472a58a490c5e09a238847f66a68a47cc76f0f": {
+    "chain": "ethereum",
+    "nameTag": "adidas Originals: Metaverse",
+    "count": 3
+  },
+  "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf": {
+    "chain": "ethereum",
+    "nameTag": "Polygon (Matic): ERC20 Bridge",
+    "count": 3
+  },
+  "0xf6080d9fbeebcd44d89affbfd42f098cbff92816": {
+    "chain": "ethereum",
+    "nameTag": "Starknet: StarkGate USDC Bridge",
+    "count": 3
+  },
+  "0x34e158883efc81c5d92fde785fba48db738711ee": {
+    "chain": "ethereum",
+    "nameTag": "BitPay: Invoice",
+    "count": 3
+  },
+  "0x85cd07ea01423b1e937929b44e4ad8c40bbb5e71": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: Route Processor 6",
+    "count": 3
+  },
+  "0xe3cbd06d7dadb3f4e6557bab7edd924cd1489e8f": {
+    "chain": "ethereum",
+    "nameTag": "Mantle: LSP Staking",
+    "count": 3
+  },
+  "0x0ec68c5b10f21effb74f2a5c61dfe6b08c0db6cb": {
+    "chain": "ethereum",
+    "nameTag": "Blast: Optimism Portal Proxy",
+    "count": 3
+  },
+  "0x15a7ca97d1ed168fb34a4055cefa2e2f9bdb6c75": {
+    "chain": "ethereum",
+    "nameTag": "Everclear: Fee Adapter",
+    "count": 3
+  },
+  "0xcf068d287b206f20e64e9259f44c4f7130be7297": {
+    "chain": "ethereum",
+    "nameTag": "Moonbirds: CGMB Token",
+    "count": 2
+  },
+  "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222": {
+    "chain": "ethereum",
+    "nameTag": "Relay: Router",
+    "count": 2
+  },
+  "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
+    "chain": "ethereum",
+    "nameTag": "Lido: wstETH Token",
+    "count": 2
+  },
+  "0xcc6a16be713f6a714f68b0e1f4914fd3db15fbef": {
+    "chain": "ethereum",
+    "nameTag": "Yearn: kpdWETH Token",
+    "count": 2
+  },
+  "0x00000000005bbb0ef59571e58418f9a4357b68a0": {
+    "chain": "ethereum",
+    "nameTag": "Pendle: Router V3",
+    "count": 2
+  },
+  "0xcfc6d9bd7411962bfe7145451a7ef71a24b6a7a2": {
+    "chain": "ethereum",
+    "nameTag": "ether.fi: Deposit Adapter",
+    "count": 2
+  },
+  "0x4d9079bb4165aeb4084c526a32695dcfd2f77381": {
+    "chain": "ethereum",
+    "nameTag": "Across Protocol: Old Ethereum Spoke Pool V2",
+    "count": 2
+  },
+  "0xd60247c6848b7ca29eddf63aa924e53db6ddd8ec": {
+    "chain": "ethereum",
+    "nameTag": "Taiko: Bridge",
+    "count": 2
+  },
+  "0x7d0ccaa3fac1e5a943c5168b6ced828691b46b36": {
+    "chain": "ethereum",
+    "nameTag": "OKX: DEX Router 2",
+    "count": 2
+  },
+  "0x50f9bde1c76bba997a5d6e7fefff695ec8536194": {
+    "chain": "ethereum",
+    "nameTag": "DODO: Fee Route",
+    "count": 2
+  },
+  "0xf1af3b23de0a5ca3cab7261cb0061c0d779a5c7b": {
+    "chain": "ethereum",
+    "nameTag": "Scroll: L1 USDC Gateway Proxy",
+    "count": 2
+  },
+  "0xd9e1ce17f2641f24ae83637ab66a2cca9c378b9f": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: Router",
+    "count": 2
+  },
+  "0xfbddadd80fe7bda00b901fbaf73803f2238ae655": {
+    "chain": "ethereum",
+    "nameTag": "StrongBlock: Service",
+    "count": 2
+  },
+  "0xbeb5fd030ffb0fbc95d68113c1c796eff65526d7": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0xbeb...6d7",
+    "count": 2
+  },
+  "0xba1333333333a1ba1108e8412f11850a5c319ba9": {
+    "chain": "ethereum",
+    "nameTag": "Balancer V3: Vault",
+    "count": 2
+  },
+  "0xac4c6e212a361c968f1725b4d055b47e63f80b75": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: RedSnwapper",
+    "count": 2
+  },
+  "0xefa3fa8e85d2b3cfdb250cdea156c2c6c90628f5": {
+    "chain": "ethereum",
+    "nameTag": "Treehouse: tETH Router",
+    "count": 2
+  },
+  "0x52dac05fc0000e9f01ce9a1e91592bfbfce87350": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: LYRA",
+    "count": 2
+  },
+  "0x3afdc9bca9213a35503b077a6072f3d0d5ab0840": {
+    "chain": "ethereum",
+    "nameTag": "Compound: cUSDTv3 Token",
+    "count": 2
+  },
+  "0x49048044d57e1c92a77f79988d21fa8faf74e97e": {
+    "chain": "ethereum",
+    "nameTag": "Base: Base Portal",
+    "count": 2
+  },
+  "0x5ee5bf7ae06d1be5997a1a72006fe6c607ec6de8": {
+    "chain": "ethereum",
+    "nameTag": "Aave: Ethereum WBTC V3",
+    "count": 2
+  },
+  "0x283af0b28c62c092c9727f1ee09c02ca627eb7f5": {
+    "chain": "ethereum",
+    "nameTag": "ENS: Old ETH Registrar Controller",
+    "count": 2
+  },
+  "0x422f5accc812c396600010f224b320a743695f85": {
+    "chain": "ethereum",
+    "nameTag": "Symbiotic: DC_wBETH Token",
+    "count": 1
+  },
+  "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": {
+    "chain": "ethereum",
+    "nameTag": "EigenLayer: swETH Strategies",
+    "count": 1
+  },
+  "0xdf0770df86a8034b3efef0a1bb3c889b8332ff56": {
+    "chain": "ethereum",
+    "nameTag": "Stargate Finance: S*USDC Token",
+    "count": 1
+  },
+  "0x5d66c1782664115999c47c9fa5cd031f495d3e4f": {
+    "chain": "ethereum",
+    "nameTag": "Ink: Optimism Portal",
+    "count": 1
+  },
+  "0xa195608c2306a26f727d5199d5a382a4508308da": {
+    "chain": "ethereum",
+    "nameTag": "Superform : Superform Router",
+    "count": 1
+  },
+  "0xa3a7b6f88361f48403514059f1f16c8e78d60eec": {
+    "chain": "ethereum",
+    "nameTag": "Arbitrum One: L1 ERC20 Gateway",
+    "count": 1
+  },
+  "0x2a3dd3eb832af982ec71669e178424b10dca2ede": {
+    "chain": "ethereum",
+    "nameTag": "Polygon: Agglayer Unified Bridge",
+    "count": 1
+  },
+  "0x37922c69b08babcceae735a31235c81f1d1e8e43": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: PENDLE",
+    "count": 1
+  },
+  "0x00000688768803bbd44095770895ad27ad6b0d95": {
+    "chain": "ethereum",
+    "nameTag": "The T Resolver: Proxy",
+    "count": 1
+  },
+  "0xc4448b71118c9071bcb9734a0eac55d18a153949": {
+    "chain": "ethereum",
+    "nameTag": "Arbitrum Nova: Delayed Inbox",
+    "count": 1
+  },
+  "0x12bb5bbbfe596dbc489d209299b8302c3300fa40": {
+    "chain": "ethereum",
+    "nameTag": "Gitcoin: Round Implementation",
+    "count": 1
+  },
+  "0x5d22045daceab03b158031ecb7d9d06fad24609b": {
+    "chain": "ethereum",
+    "nameTag": "Rhino.fi: Bridge",
+    "count": 1
+  },
+  "0xf8b1378579659d8f7ee5f3c929c2f3e332e41fd6": {
+    "chain": "ethereum",
+    "nameTag": "Scroll: L1 Gateway Router Proxy",
+    "count": 1
+  },
+  "0x5f65f7b609678448494de4c87521cdf6cef1e932": {
+    "chain": "ethereum",
+    "nameTag": "Gemini 4",
+    "count": 1
+  },
+  "0x0ed3a1d45dfdcf85bcc6c7bafdc0170a357b974c": {
+    "chain": "ethereum",
+    "nameTag": "Pendle: YT-rsETH-27JUN2024 Token",
+    "count": 1
+  },
+  "0x4f43c77872db6ba177c270986cd30c3381af37ee": {
+    "chain": "ethereum",
+    "nameTag": "Pendle: PT-rsETH-27JUN24 /SY-rsETH Market Token",
+    "count": 1
+  },
+  "0xc186fa914353c44b2e33ebe05f21846f1048beda": {
+    "chain": "ethereum",
+    "nameTag": "Across Protocol: Hub Pool V2",
+    "count": 1
+  },
+  "0xa8b607aa09b6a2e306f93e74c282fb13f6a80452": {
+    "chain": "ethereum",
+    "nameTag": "Vesper Finance: vaUSDC Pool",
+    "count": 1
+  },
+  "0x8b00ee8606cc70c2dce68dea0cefe632cca0fb7b": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: UST",
+    "count": 1
+  },
+  "0x3980c9ed79d2c191a89e02fa3529c60ed6e9c04b": {
+    "chain": "ethereum",
+    "nameTag": "Metis Andromeda: Bridge",
+    "count": 1
+  },
+  "0x5f6ae08b8aeb7078cf2f96afb089d7c9f51da47d": {
+    "chain": "ethereum",
+    "nameTag": "Blast: Deposit",
+    "count": 1
+  },
+  "0x5fa4370164a2fabeef159b893299d59ff5dc1e6d": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: BENT-DAI",
+    "count": 1
+  },
+  "0x609c690e8f7d68a59885c9132e812eebdaaf0c9e": {
+    "chain": "ethereum",
+    "nameTag": "Allbridge: Core Bridge",
+    "count": 1
+  },
+  "0xdaf1695c41327b61b9b9965ac6a5843a3198cf07": {
+    "chain": "ethereum",
+    "nameTag": "Manta Pacific: New Paradigm Bridge",
+    "count": 1
+  },
+  "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5": {
+    "chain": "ethereum",
+    "nameTag": "Compound: cETH Token",
+    "count": 1
+  },
+  "0x134ccaaa4f1e4552ec8aecb9e4a2360ddcf8df76": {
+    "chain": "ethereum",
+    "nameTag": "Syrup: USDC Router",
+    "count": 1
+  },
+  "0x53e82abbb12638f09d9e624578ccb666217a765e": {
+    "chain": "ethereum",
+    "nameTag": "Agglayer: vbUSDC Token",
+    "count": 1
+  },
+  "0x3b95bc951ee0f553ba487327278cac44f29715e5": {
+    "chain": "ethereum",
+    "nameTag": "Manta Pacific: Bridge",
+    "count": 1
+  },
+  "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae": {
+    "chain": "ethereum",
+    "nameTag": "Trevee Earn: scUSD Token",
+    "count": 1
+  },
+  "0xdb72f739a6f93b652fcff7fea777e2f6796e62a7": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0xdb7...2a7",
+    "count": 1
+  },
+  "0x23ddd3e3692d1861ed57ede224608875809e127f": {
+    "chain": "ethereum",
+    "nameTag": "Near: Rainbow Bridge",
+    "count": 1
+  },
+  "0x15a8e38942f9e353bec8812763fb3c104c89ecf4": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: MILADY",
+    "count": 1
+  },
+  "0x608c4e792c65f5527b3f70715dea44d3b302f4ee": {
+    "chain": "ethereum",
+    "nameTag": "Aztec: Continuous Clearing Auction",
+    "count": 1
+  },
+  "0xf0e4244ca93ac36752da5939afd9cb73b0637b06": {
+    "chain": "ethereum",
+    "nameTag": "Pendle: YT-sw2Rsweth-25JUL2024 Token",
+    "count": 1
+  },
+  "0x59e16fccd424cc24e280be16e11bcd56fb0ce547": {
+    "chain": "ethereum",
+    "nameTag": "ENS: ETH Registrar Controller 2",
+    "count": 1
+  },
+  "0x4da27a545c0c5b758a6ba100e3a049001de870f5": {
+    "chain": "ethereum",
+    "nameTag": "Aave: Staked Aave",
+    "count": 1
+  },
+  "0x5ddf30555ee9545c8982626b7e3b6f70e5c2635f": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0x5dd...35f",
+    "count": 1
+  },
+  "0xf0d539955974b248d763d60c3663ef272dfc6971": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0xf0d5...971",
+    "count": 1
+  },
+  "0x1103fc560de8b710983e7f3ec09d587f3f848566": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0x1103...566",
+    "count": 1
+  },
+  "0xe707321b887b9da133ac5fcc5edb78ab177a152d": {
+    "chain": "ethereum",
+    "nameTag": "Mellow Protocol: strETH ETH Deposit Queue",
+    "count": 1
+  },
+  "0x5eaa10f99e7e6d177ef9f74e519e319aa49f191e": {
+    "chain": "ethereum",
+    "nameTag": "Hemi: L1 Standard Bridge Proxy",
+    "count": 1
+  },
+  "0x4f30a9d41b80ecc5b94306ab4364951ae3170210": {
+    "chain": "ethereum",
+    "nameTag": "Pendle: vePendle",
+    "count": 1
+  },
+  "0x1522900b6dafac587d499a862861c0869be6e428": {
+    "chain": "ethereum",
+    "nameTag": "Bitstamp 2",
+    "count": 1
+  },
+  "0xe76014c179f19da26bb30a0f085ff0a466b92829": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0xe76...829",
+    "count": 1
+  },
+  "0x3f04b65ddbd87f9ce0a2e7eb24d80e7fb87625b5": {
+    "chain": "ethereum",
+    "nameTag": "infiniFi: Gateway",
+    "count": 1
+  },
+  "0xd2b37ade14708bf18904047b1e31f8166d39612b": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: Route Processor 9 3",
+    "count": 1
+  },
+  "0x9c73879f795cefa1d5239de08d1b6aba2d2d1434": {
+    "chain": "ethereum",
+    "nameTag": "Pendle: PENDLE-LPT Token 5",
+    "count": 1
+  },
+  "0x39aa39c021dfbae8fac545936693ac917d5e7563": {
+    "chain": "ethereum",
+    "nameTag": "Compound: cUSDC Token",
+    "count": 1
+  },
+  "0x5fdcca53617f4d2b9134b29090c87d01058e27e9": {
+    "chain": "ethereum",
+    "nameTag": "Immutable X: Bridge",
+    "count": 1
+  },
+  "0x88a69b4e698a4b090df6cf5bd7b2d47325ad30a3": {
+    "chain": "ethereum",
+    "nameTag": "Nomad: ERC20 Bridge",
+    "count": 1
+  },
+  "0x92be6adb6a12da0ca607f9d87db2f9978cd6ec3e": {
+    "chain": "ethereum",
+    "nameTag": "Zapper.Fi: Yearn yVault Zap In",
+    "count": 1
+  },
+  "0x63b0a0d33fe906c668b1de4875bfaf562a9d8c5b": {
+    "chain": "ethereum",
+    "nameTag": "KyberSwap: KSZapExecutor v2",
+    "count": 1
+  },
+  "0x23878914efe38d27c4d67ab83ed1b93a74d4086a": {
+    "chain": "ethereum",
+    "nameTag": "Aave: Ethereum USDT",
+    "count": 1
+  },
+  "0xbd216513d74c8cf14cf4747e6aaa6420ff64ee9e": {
+    "chain": "ethereum",
+    "nameTag": "Uniswap V4: Position Manager",
+    "count": 1
+  },
+  "0x735adbbe72226bd52e818e7181953f42e3b0ff21": {
+    "chain": "ethereum",
+    "nameTag": "Mode: Standard Bridge Proxy",
+    "count": 1
+  },
+  "0x5cc9400ffb4da168cf271e912f589462c3a00d1f": {
+    "chain": "ethereum",
+    "nameTag": "Beefy: Zap Router",
+    "count": 1
+  },
+  "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656": {
+    "chain": "ethereum",
+    "nameTag": "Aave: aWBTC Token V2",
+    "count": 1
+  },
+  "0x827962404d7104202c5aaa6b929115c8211d9596": {
+    "chain": "ethereum",
+    "nameTag": "Kroma: L1 Standard Bridge",
+    "count": 1
+  },
+  "0x88ff1e5b602916615391f55854588efcbb7663f0": {
+    "chain": "ethereum",
+    "nameTag": "Ink: L1 Standard Bridge",
+    "count": 1
+  },
+  "0xfeecbe8036d95acf84a2c9b8974fa0ced1c4cc17": {
+    "chain": "ethereum",
+    "nameTag": "MEV Bot: 0xfeecbe8036d95acf84a2c9b8974fa0ced1c4cc17",
+    "count": 1
+  },
+  "0x1f6692e78dde07ff8da75769b6d7c716215bc7d0": {
+    "chain": "ethereum",
+    "nameTag": "MetaMask: Third Party Staking",
+    "count": 1
+  },
+  "0x8571c129f335832f6bbc76d49414ad2b8371a422": {
+    "chain": "ethereum",
+    "nameTag": "1inch : Rizzolver",
+    "count": 1
+  },
+  "0xa434d495249abe33e031fe71a969b81f3c07950d": {
+    "chain": "ethereum",
+    "nameTag": "Aave: Wrapped Token Gateway 1",
+    "count": 1
+  },
+  "0x5e1f62dac767b0491e3ce72469c217365d5b48cc": {
+    "chain": "ethereum",
+    "nameTag": "OKX Labs 1",
+    "count": 1
+  },
+  "0x5ae176bbcb9a4461aeeeb97c90c2a80c2078006a": {
+    "chain": "ethereum",
+    "nameTag": "Pendle: YT-uniETH-27JUN2024 Token",
+    "count": 1
+  },
+  "0xb5de0c3753b6e1b4dba616db82767f17513e6d4e": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: SPELL",
+    "count": 1
+  },
+  "0x838af967537350d2c44abb8c010e49e32673ab94": {
+    "chain": "ethereum",
+    "nameTag": "Curve: Vyper Contract",
+    "count": 1
+  },
+  "0x82ebcd936c9e938704b65027850e42393f8bc4d4": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: NAOS",
+    "count": 1
+  },
+  "0x24179cd81c9e782a4096035f7ec97fb8b783e007": {
+    "chain": "ethereum",
+    "nameTag": "Liquity: Borrower Operations",
+    "count": 1
+  },
+  "0x2905d7e4d048d29954f81b02171dd313f457a4a4": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: Route Processor 8",
+    "count": 1
+  },
+  "0x39da41747a83aee658334415666f3ef92dd0d541": {
+    "chain": "ethereum",
+    "nameTag": "Blur.io: Marketplace 2",
+    "count": 1
+  },
+  "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9": {
+    "chain": "ethereum",
+    "nameTag": "Compound: cUSDT Token",
+    "count": 1
+  },
+  "0xa0c68c638235ee32657e8f720a23cec1bfc77c77": {
+    "chain": "ethereum",
+    "nameTag": "Polygon (Matic): Bridge",
+    "count": 1
+  },
+  "0x06da0fd433c1a5d7a4faa01111c044910a184553": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: USDT",
+    "count": 1
+  },
+  "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b": {
+    "chain": "ethereum",
+    "nameTag": "Stargate Finance: LP Staking",
+    "count": 1
+  },
+  "0x35cea9e57a393ac66aaa7e25c391d52c74b5648f": {
+    "chain": "ethereum",
+    "nameTag": "Balancer V3: Balancer Relayer 1",
+    "count": 1
+  },
+  "0xa230285d5683c74935ad14c446e137c8c8828438": {
+    "chain": "ethereum",
+    "nameTag": "Blast: USD Yield Manager Proxy",
+    "count": 1
+  },
+  "0xdc1664458d2f0b6090bea60a8793a4e66c2f1c00": {
+    "chain": "ethereum",
+    "nameTag": "Boba Network: Gateway",
+    "count": 1
+  },
+  "0x67e4423340b56c119749a570afa460f031ac29d6": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: LINA-USDC",
+    "count": 1
+  },
+  "0xd8a791fe2be73eb6e6cf1eb0cb3f36adc9b3f8f9": {
+    "chain": "ethereum",
+    "nameTag": "Scroll: L1 Standard ERC20 Gateway Proxy",
+    "count": 1
+  },
+  "0x2f50508a8a3d323b91336fa3ea6ae50e55f32185": {
+    "chain": "ethereum",
+    "nameTag": "Tornado.Cash: Governance Vault",
+    "count": 1
+  },
+  "0x000000000000ad05ccc4f10045630fb830b95127": {
+    "chain": "ethereum",
+    "nameTag": "Blur.io: Marketplace",
+    "count": 1
+  },
+  "0xe4ebd836832f1a8a81641111a5b081a2f90b9430": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: DYDX",
+    "count": 1
+  },
+  "0x26e6a391953169d141df36834acfd9c61d3d4d59": {
+    "chain": "ethereum",
+    "nameTag": "SushiSwap: MASQ",
+    "count": 1
+  },
+  "0xf5c9f957705bea56a7e806943f98f7777b995826": {
+    "chain": "ethereum",
+    "nameTag": "Sorare: L2 Bridge",
+    "count": 1
+  },
+  "0xa361718326c15715591c299427c62086f69923d9": {
+    "chain": "ethereum",
+    "nameTag": "Aave: aBUSD Token V2",
+    "count": 1
+  },
+  "0xa79828df1850e8a3a3064576f380d90aecdd3359": {
+    "chain": "ethereum",
+    "nameTag": "Curve Finance: 3Pool Deposit Zap",
+    "count": 1
+  },
+  "0xcf16a850ba80ebe4273083e78967a80454796b9c": {
+    "chain": "ethereum",
+    "nameTag": "UNCX Network: Multi signature Reserves",
+    "count": 1
+  },
+  "0x59728544b08ab483533076417fbbb2fd0b17ce3a": {
+    "chain": "ethereum",
+    "nameTag": "LooksRare: Exchange",
+    "count": 1
+  },
+  "0xa3128d9b7cca7d5af29780a56abeec12b05a6740": {
+    "chain": "optimism",
+    "nameTag": "0x: Flash Wallet",
+    "count": 15
+  },
+  "0xdecc0c09c3b5f6e92ef4184125d5648a66e35298": {
+    "chain": "optimism",
+    "nameTag": "Stargate Finance: S*USDC Token",
+    "count": 4
+  },
+  "0xb555edf5dcf85f42ceef1f3630a52a108e55a654": {
+    "chain": "optimism",
+    "nameTag": "Uniswap: Universal Router",
+    "count": 4
+  },
+  "0x86ca30bef97fb651b8d866d45503684b90cb3312": {
+    "chain": "optimism",
+    "nameTag": "Hop Protocol: ETH Wrapper",
+    "count": 4
+  },
+  "0xdef1abe32c034e558cdd535791643c58a13acc10": {
+    "chain": "optimism",
+    "nameTag": "0x: Exchange Proxy",
+    "count": 2
+  },
+  "0x2ad09850b0ca4c7c1b33f5acd6cbabcab5d6e796": {
+    "chain": "optimism",
+    "nameTag": "Hop Protocol: USDC Wrapper",
+    "count": 2
+  },
+  "0xd22363e3762ca7339569f3d33eade20127d5f98c": {
+    "chain": "optimism",
+    "nameTag": "Stargate Finance: S*SGETH Token",
+    "count": 1
+  },
+  "0xf390830df829cf22c53c8840554b98eafc5dcbc2": {
+    "chain": "optimism",
+    "nameTag": "Multichain: anyUSDC Token",
+    "count": 1
+  },
+  "0x20975da6eb930d592b9d78f451a9156db5e4c77b": {
+    "chain": "optimism",
+    "nameTag": "Quix: Exchange",
+    "count": 1
+  },
+  "0x76d3030728e52deb8848d5613abade88441cbc59": {
+    "chain": "optimism",
+    "nameTag": "Aave: Wrapped Token Gateway V3",
+    "count": 1
+  },
+  "0xaf41a65f786339e7911f4acdad6bd49426f2dc6b": {
+    "chain": "optimism",
+    "nameTag": "Synapse: Bridge",
+    "count": 1
+  },
+  "0x7af14adc8aea70f063c7ea3b2c1ad0d7a59c4bff": {
+    "chain": "optimism",
+    "nameTag": "Rubicon: Rubicon Router",
+    "count": 1
+  }
+}
